@@ -1,0 +1,11 @@
+{
+  "name": "xeon-log-reader",
+  "version": "0.0.1",
+  "description": "reading logs",
+  "main": "index.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ok",
+  "license": "MIT"
+}
